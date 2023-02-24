@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Creating a RSS feed with Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Read the full article here [blog.rrrm.co.uk](https://blog.rrrm.co.uk/post/creating-a-rss-feed-with-nuxt-3) 
 
 ## Setup
 
